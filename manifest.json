@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Faith Life Church Theme",
+  "description": "A sacred Chrome theme featuring a golden cross over the world, inspired by Faith Life Evangelistic Church.",
+  "theme": {
+    "images": {
+      "theme_frame": "images/frame.png",
+      "theme_ntp_background": "images/background.png"
+    },
+    "colors": {
+      "frame": [28, 28, 30],
+      "frame_inactive": [20, 20, 22],
+      "toolbar": [48, 48, 52],
+      "tab_text": [230, 230, 225],
+      "tab_background_text": [190, 190, 185],
+      "bookmark_text": [220, 220, 215],
+      "ntp_background": [12, 12, 14],
+      "ntp_text": [240, 240, 235],
+      "ntp_link": [170, 185, 175],
+      "ntp_section": [34, 34, 36]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_background_size": "contain"
+    }
+  }
+}
